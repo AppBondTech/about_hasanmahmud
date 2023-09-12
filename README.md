@@ -1,13 +1,13 @@
 ![](https://mdhasanmahmud.000webhostapp.com/githubprofile/playwithandroid.jpg)
 
-### Hi there, This is Atikul Islam
-#### I am Android App Developer
+### Hello there, This is Hasan Mahmud 
+#### I am a Android App Developer
 
-A full-time Android software Developer who makes a living on Fiverr for almost 2 years now. I create apps for websites, companies, schools, etc. I don't stop working until you are 100% satisfied! Good things come with hard work, so I will always strive to be the best version of myself and my work. It has been an exciting journey! I have been lucky enough to do what I love since 2019, and I am looking forward to the future to come!
+I have been a dedicated Android software developer on Fiverr for nearly one years, working full-time to support myself. My expertise lies in crafting apps for a diverse range of clients, including websites, businesses, and educational institutions. I am committed to ensuring your complete satisfaction, and I won't rest until you are 100% happy with the results. I firmly believe that excellence is the fruit of hard work, and I constantly strive to improve both myself and my work. This journey has been filled with excitement, and I consider myself fortunate to have been pursuing my passion since 2021. I eagerly anticipate the promising future that lies ahead!
 
-Skills:  HTML / CSS / PHP / JavaScript / Java 
+Skills:  HTML / CSS / JavaScript / Java / IT / Networking
 
-- 🔭 I’m currently working on BD TopCoder 
+- 🔭 I’m currently working on Prime University 
 - 🌱 I’m currently learning Java 
 - 
 
