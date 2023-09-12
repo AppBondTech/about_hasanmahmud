@@ -7,9 +7,8 @@ I have been a dedicated Android software developer on Fiverr for nearly one year
 
 Skills:  HTML / CSS / JavaScript / Java / IT / Networking
 
-- 🔭 I’m currently working on Prime University 
-- 🌱 I’m currently learning Java 
-- 
+- 🔭 I’m currently working on Prime University.
+- 🌱 As well as learning Java, Mobile App Development at Bongo Academy.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AppBondTech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasan.appdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCmNhlpxcbF5uNRJ_LsvGS9A) 
 
