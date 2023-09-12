@@ -15,10 +15,6 @@ Skills:  HTML / CSS / JavaScript / Java / IT / Networking
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppBondTech)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AppBondTech&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/AppBondTech)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AppBondTech)  
